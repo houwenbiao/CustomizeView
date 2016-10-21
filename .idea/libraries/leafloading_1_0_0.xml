@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="leafloading-1.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sloop.view.loading/leafloading/1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sloop.view.loading/leafloading/1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sloop.view.loading/leafloading/1.0.0/88dc43355e55648ef4f51902551f0c4f872463b5/leafloading-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
